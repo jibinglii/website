@@ -1,0 +1,2 @@
+/* @update: 2017-7-25 19:20:20 */ 
+var _jraqnew=_jraqnew||[];_jraqnew.push(["account","UA-J2011-12"]),function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src=("https:"==document.location.protocol?"https://jdjrflow":"//jdjrflow")+".jd.com/wl.dev.js";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(t,e)}();
